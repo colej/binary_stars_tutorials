@@ -3,12 +3,12 @@ Slides and notebooks for an introduction lecture to observations in binary stars
 
 
 ## Notebooks include:
-Barycentric and relative orbits
-Astrometric orbits
-SB1 orbit
+ - Barycentric and relative orbits
+ - Astrometric orbits
+ - SB1 orbit
 
 ### coming soon:
-How to fit a spectroscopic orbit
+ - How to fit a spectroscopic orbit
 
 
 
