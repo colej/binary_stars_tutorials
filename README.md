@@ -9,8 +9,6 @@ SB1 orbit
 
 ### coming soon:
 How to fit a spectroscopic orbit
-How to generate a lightcurve for an eclipsing binary 
-Period determination from sparsely sampeld data
 
 
 
